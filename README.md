@@ -18,7 +18,8 @@ streamlit run app.py
 
 ## Data
 - `data/chicago-alprs.csv` — recorded ALPR camera point locations
-- `data/communities.geojson` — Chicago community area boundaries (GeoJSON)
+- `data/community_boundaries.csv` — Chicago community area boundary source data
+- `data/communities.geojson` — GeoJSON version of the community boundaries used for mapping
 - `data/socioeconomic_indicators.csv` — selected socioeconomic indicators by community area
 
 ## Dashboard
